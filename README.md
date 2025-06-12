@@ -1,5 +1,18 @@
 <h1>Hi 👋, I'm Faisal Saifi</h1>
-<p>A passionate Full Stack Developer</p>
+<p>Full Stack Developer | Cloud Enthusiast | Automation Engineer</p>
+<p>🚀 I'm a passionate Full Stack Developer with hands-on experience in building scalable web applications and automating processes across industries. My skill set bridges development, DevOps, and intelligent automation.
+
+💻 What I Do
+🔧 Develop full-stack applications using JavaScript/TypeScript, React, Node.js, Express, PHP, and MySQL
+
+☁️ Work with cloud platforms like AWS and Azure for scalable deployment and infrastructure
+
+🤖 Automate repetitive tasks using Automation Anywhere and UiPath
+
+🐧 Use Linux, Git, and Python extensively for scripting, automation, and system management
+
+🔍 What Drives Me
+Creating smart, secure, and user-centric solutions that simplify complex tasks and empower teams to move faster and smarter. I'm especially interested in the intersection of cloud, automation, and modern web development.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
