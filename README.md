@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Faisal Saifi</h1>
-<p>Full Stack Developer | Cloud Enthusiast | Automation Engineer</p>
+<p>Full Stack Developer | Cloud Enthusiast | Automation Developer</p>
 <p>🚀 I'm a passionate Full Stack Developer with hands-on experience in building scalable web applications and automating processes across industries. My skill set bridges development, DevOps, and intelligent automation.
 
 💻 What I Do
