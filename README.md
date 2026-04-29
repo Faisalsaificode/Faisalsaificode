@@ -84,10 +84,10 @@ I'm a passionate Full Stack Developer based in **Bengaluru, India**, with hands-
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/faisalsaifi" target="_blank">
+  <a href="https://linkedin.com/in/faisal-saifi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:faisal@example.com">
+  <a href="mailto:faisalsaifi1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
