@@ -17,8 +17,10 @@ I'm a passionate Full Stack Developer based in **Bengaluru, India**, with hands-
 - ☁️ I work with **AWS** and **Azure** for scalable deployment and infrastructure management
 - 🤖 I automate workflows using **Automation Anywhere** and **UiPath**
 - 🐧 I use **Linux**, **Git**, and **Python** extensively for scripting and system management
-- 🌱 I'm currently exploring the intersection of **cloud**, **automation**, and **modern web development**
-- 💬 Ask me about **React**, **Node.js**, **cloud infrastructure**, or **RPA**
+- 🦀 Building systems-level tools with **Rust** and graph-powered apps with **Neo4j**
+- 🔌 Designing and integrating **MCP (Model Context Protocol)** servers for AI-native tooling
+- 🌱 I'm currently exploring the intersection of **AI agents**, **graph databases**, and **modern automation**
+- 💬 Ask me about **React**, **Node.js**, **cloud infrastructure**, **RPA**, or **MCP tools**
 
 ---
 
@@ -34,10 +36,12 @@ I'm a passionate Full Stack Developer based in **Bengaluru, India**, with hands-
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -51,6 +55,14 @@ I'm a passionate Full Stack Developer based in **Bengaluru, India**, with hands-
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### 🔌 MCP (Model Context Protocol)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-534AB7?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic-Claude-D4A27F?style=flat-square&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP-Server%20Builder-1D9E75?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents%20%26%20Tooling-3178C6?style=flat-square&logoColor=white)
+
+> Building custom MCP servers that expose tools, resources, and prompts to AI agents — enabling intelligent automation pipelines powered by LLMs.
 
 ### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -84,10 +96,10 @@ I'm a passionate Full Stack Developer based in **Bengaluru, India**, with hands-
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/faisal-saifi" target="_blank">
+  <a href="https://linkedin.com/in/faisalsaifi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:faisalsaifi1999@gmail.com">
+  <a href="mailto:faisal@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
